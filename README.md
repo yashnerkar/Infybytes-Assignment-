@@ -1,9 +1,4 @@
 
-# Tic-Tac-Toe Multiplayer
-
-This is the Multiplayer Tic tac toe game.
-
-
 
 
 ## Run Locally
@@ -44,5 +39,19 @@ Start the server
 **Client:** React, Redux, TailwindCSS
 
 **Server:** Node, Express,Socket.io
+
+
+
+
+## Deployment
+
+
+```Currently not deployed```
+
+
+# Features
+
+The whole features are not working. There are still bugs.
+
 
 
